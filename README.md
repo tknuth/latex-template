@@ -1,2 +1,3 @@
-# wissenschaftliche-arbeiten
-Template für wissenschaftliche Arbeiten.
+# Template für wissenschaftliche Arbeiten
+
+Das Template kann in [Overleaf](https://www.overleaf.com/docs?snip_uri[]=https://raw.githubusercontent.com/tknuth/wissenschaftliche-arbeit/master/main.tex&snip_uri[]=https://raw.githubusercontent.com/tknuth/wissenschaftliche-arbeit/master/bibliography.bib&snip_uri[]=https://raw.githubusercontent.com/tknuth/wissenschaftliche-arbeit/master/tex/01-einleitung.tex&snip_uri[]=https://raw.githubusercontent.com/tknuth/wissenschaftliche-arbeit/master/tex/02-literatur.tex&snip_uri[]=https://raw.githubusercontent.com/tknuth/wissenschaftliche-arbeit/master/tex/03-methodik.tex&snip_uri[]=https://raw.githubusercontent.com/tknuth/wissenschaftliche-arbeit/master/tex/04-ergebnisse.tex&snip_uri[]=https://raw.githubusercontent.com/tknuth/wissenschaftliche-arbeit/master/tex/05-diskussion.tex&snip_uri[]=https://raw.githubusercontent.com/tknuth/wissenschaftliche-arbeit/master/tex/06-schluss.tex) geöffnet werden.
