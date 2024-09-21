@@ -1,9 +1,21 @@
 \documentclass[twoside=false]{scrbook}
 
 \usepackage[ngerman]{babel}
+\usepackage{graphicx}
 \usepackage[acronym]{glossaries}
+\usepackage{csquotes}
+\usepackage{subcaption}
+\usepackage{lipsum}
+
+\usepackage[
+  style=apa,
+  % autocite=footnote,
+  % url=false,
+]{biblatex}
 
 \makeglossaries
+
+\addbibresource{bibliography.bib}
 
 \begin{document}
 
@@ -14,6 +26,7 @@
 \publishers{Betreuung/Fachbereich}
 \author{Dr. Tobias Knuth}
 \date{30.09.2024}
+
 
 \newacronym{html}{HTML}{HyperText Markup Language}
 
@@ -39,12 +52,13 @@
 \setcounter{page}{1}
 \pagenumbering{arabic}
 
-\chapter{Inhalt}
+\include{tex/01-einleitung}
+\include{tex/02-literatur}
+\include{tex/03-methodik}
+\include{tex/04-ergebnisse}
+\include{tex/05-diskussion}
+\include{tex/06-schluss}
 
-\Gls{html} ist die Sprache des Internets.
-
-\chapter{Format}
-
-\chapter{Zitieren}
+\printbibliography
 
 \end{document}
