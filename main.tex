@@ -1,6 +1,9 @@
 \documentclass[twoside=false]{scrbook}
 
 \usepackage[ngerman]{babel}
+\usepackage[acronym]{glossaries}
+
+\makeglossaries
 
 \begin{document}
 
@@ -12,13 +15,33 @@
 \author{Dr. Tobias Knuth}
 \date{30.09.2024}
 
+\newacronym{html}{HTML}{HyperText Markup Language}
+
+\setcounter{page}{1}
+\pagenumbering{Roman}
+
 \maketitle
 \tableofcontents
 
+\addcontentsline{toc}{chapter}{\listfigurename}
 \listoffigures
+
+\addcontentsline{toc}{chapter}{\listtablename}
 \listoftables
 
+\renewcommand{\acronymname}{Abkürzungsverzeichnis}
+\addcontentsline{toc}{chapter}{\acronymname}
+
+\printglossary[type=\acronymtype]
+
+\clearpage
+
+\setcounter{page}{1}
+\pagenumbering{arabic}
+
 \chapter{Inhalt}
+
+\Gls{html} ist die Sprache des Internets.
 
 \chapter{Format}
 
