@@ -1,6 +1,6 @@
 # Template für wissenschaftliche Arbeiten
 
-Das Template kann in [Overleaf](https://www.overleaf.com/docs?snip_uri=https://raw.githubusercontent.com/tknuth/latex-template/master/main.tex) geöffnet werden.
+Das Template kann in [Overleaf](https://www.overleaf.com/docs?snip_uri[]=https://raw.githubusercontent.com/tknuth/latex-template/master/main.tex&snip_uri[]=https://raw.githubusercontent.com/tknuth/latex-template/master/bibliography.bib) geöffnet werden.
 
 ## Hinweise zum Schreiben
 
