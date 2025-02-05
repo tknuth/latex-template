@@ -7,7 +7,7 @@ Das Template kann in [Overleaf](https://www.overleaf.com/docs?snip_uri[]=https:/
 ### Inhaltliche Hinweise
 
 - Die Arbeit sollte einen deutlich erkennbaren roten Faden haben. Einzelne Abschnitte sollten sowohl in den Kontext eingebettet sein auch in sich vollständig sein und einzeln Sinn ergeben.
-- Die Überschriften sollten die Inhalte der Abschnitte beschreiben, sodass das Inhaltsverzeichnis einen zusammenfassenden Eindruck des Textes vermittelt.
+- Die Überschriften sollten die Inhalte der Abschnitte beschreiben, sodass das Inhaltsverzeichnis einen zusammenfassenden Eindruck des Textes vermittelt. Die Überschriften sollten eine sinnvolle Hierarchie aufweisen, welche die Verständlichkeit der Arbeit unterstützt.
 - Prüfen Sie die Objektivität und Prägnanz Ihres Textes kritisch. Vermeiden Sie, eigene Meinungen ohne Belege zur Argumentation zu verwenden. Vermeiden Sie zudem Füllwörter und Sätze, die keinen Mehrwert bieten (z.B. "Es liegt auf der Hand, dass ...").
 
 ### Formale Hinweise
