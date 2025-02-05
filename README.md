@@ -10,7 +10,7 @@ Das Template kann in [Overleaf](https://www.overleaf.com/docs?snip_uri[]=https:/
 
 ### Formale Hinweise
 
-- Verwenden Sie als Seitenformat DIN A4 und eine Schritart mit Serifen sowie eine Schriftgröße von 10–12pt. Um den Lesefluss zu erleichtern, sollten die Seitenränder mindestens 4cm betragen.
+- Verwenden Sie als Seitenformat DIN A4 und eine Schritart mit Serifen sowie eine Schriftgröße von 10 bis 12pt. Um die breite der Textzeile zu beschränken und damit den Lesefluss zu erleichtern, sollten die Seitenränder mindestens 4cm betragen.
 - Überschriften schaffen Struktur. Sie sollten sprechende Namen haben und den Text in Abschnitte angemessenen Umfangs unterteilen. Überschriften stehen auf einer Hierarchieebene nicht allein.
 - Absätze fassen Gedanken zusammen und grenzen diese von anderen ab. Ein Absatz sollte aus mehreren Sätzen bestehen und einge angemessene Länge haben.
 - Verwenden Sie Markierungen (fett, kursiv, unterstrichen) nur sparsam. Sie sollten nur verwendet werden, wenn sie einen Mehrwert beim Lesen bieten.
